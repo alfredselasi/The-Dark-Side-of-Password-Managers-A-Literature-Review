@@ -1,0 +1,1 @@
+define({ availableImg: ["Li2014security","Fagan2017Investigation","Thomas2019alerting","Gasti2012Security","Beck2016Visual","Alkaldi2016Adopt","Jubur2025Authentication","Silver2014Password","Stock2014Protecting","Pearman2019effectively","Bosnjak2018attack"]});
